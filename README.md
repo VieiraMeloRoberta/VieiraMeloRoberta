@@ -2,8 +2,6 @@
 ### Eu sou a Roberta 🖐️💻
         
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertavieirademelo/)
-[![Behance](https://aleen42.github.io/badges/src/behance.svg)]()
-[![Yahoo]()]()
 
 ![Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraMeloRoberta&show_icons=true&theme=radical)
 
