@@ -1,9 +1,10 @@
 ### Olá! 👋
 ### Eu sou a Roberta 🖐️💻
+#### Formada em Sistemas para Internet. Fascinada pela tecnologia e muito curiosa
+
         
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertavieirademelo/)
 
-#### Formada em Sistemas para Internet
 
 ![Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraMeloRoberta&show_icons=true&theme=radical)
 
