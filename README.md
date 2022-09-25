@@ -1,6 +1,9 @@
 ### Olá! 👋
 ### Eu sou a Roberta 🖐️💻
-#### Formada em Sistemas para Internet. Fascinada pela tecnologia e muito curiosa. Tenho conhecimento em HTML5, CSS3, JavaScript, Git e React JS. Incluindo React Hooks, Styled-Components e API Rest. Além do conhecimento técnico nessas tecnologias, já desenvolvi alguns projetos práticos com elas.
+#### 🎓Formada em Sistemas para Internet. 
+#### 📚 Estudando Web Full Stack pela Labenu.
+
+
 
         
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertavieirademelo/)
@@ -16,6 +19,9 @@
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
      <img align="center" alt="javascript"
      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+     <img align="center" alt="reactjs"
+     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
+
 
 #### Apaixonada pelo visual da interface.
