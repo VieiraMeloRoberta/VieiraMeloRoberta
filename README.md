@@ -14,7 +14,10 @@
 
 ![Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraMeloRoberta&show_icons=true&theme=radical)
 
-## Tecnologias que uso no meu dia
+<img align="right" alt="Robson-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
+
+## Tecnologias que uso no meu dia  
+
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
