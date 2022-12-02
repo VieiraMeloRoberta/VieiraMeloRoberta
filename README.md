@@ -4,7 +4,7 @@
 ### Olá! 👋
 ### Eu sou a Roberta 🖐️💻
 #### 🎓Formada em Sistemas para Internet. 
-#### 📚 Estudando Web Full Stack pela Labenu.
+#### 📚 Estudante de Web Full Stack pela Labenu.
 
 
 
