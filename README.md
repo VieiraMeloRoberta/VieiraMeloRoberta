@@ -14,6 +14,7 @@
 
 
 ![Roberta GitHub stats](https://github-readme-stats.vercel.app/api?username=VieiraMeloRoberta&show_icons=true&theme=radical)
+![Roberta GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraMeloRoberta&show_icons=true&theme=radical)
 
 <img align="right" alt="Robson-pic" height="150" style="border-radius:50px;" src="https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/gifs-do-cubo-magico-0-unscreen.gif">
 
